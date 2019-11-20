@@ -1,0 +1,22 @@
+{
+  "short_name": "calculette",
+  "name": "calculette master",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.xml",
+  "background_color": "#3367D6",
+  "orientation": "portrait",
+  "display": "fullscreen",
+  "scope": "/maps/",
+  "theme_color": "#3367D6"
+}
