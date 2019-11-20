@@ -13,10 +13,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "index.xml",
+  "start_url": "index.html",
   "background_color": "#3367D6",
   "orientation": "portrait",
   "display": "fullscreen",
-  "scope": "/maps/",
+  "scope": "index",
   "theme_color": "#3367D6"
 }
